@@ -2,7 +2,8 @@ Install Required Packages:
 Ensure you have Python installed on your system.
 
 Install the required packages via pip:
-`pip install streamlit selenium`
+`pip install streamlit`
+`pip install selenium`
 Alternatively, if you're using an IDE like JetBrains PyCharm, you can add these packages in the Python Interpreter settings.
 
 Running the Application:
